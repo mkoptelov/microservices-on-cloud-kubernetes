@@ -1,7 +1,6 @@
 name: Terminate Online Boutique
 
-on:  
-
+on:
   workflow_dispatch:
     inputs:
       workflowAction:
